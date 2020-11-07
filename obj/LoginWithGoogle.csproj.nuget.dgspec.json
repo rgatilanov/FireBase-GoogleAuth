@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\EjerciciosMTWDM2020\\LoginWithGoogle-master\\LoginWithGoogle.csproj": {}
+  },
+  "projects": {
+    "G:\\EjerciciosMTWDM2020\\LoginWithGoogle-master\\LoginWithGoogle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\EjerciciosMTWDM2020\\LoginWithGoogle-master\\LoginWithGoogle.csproj",
+        "projectName": "LoginWithGoogle",
+        "projectPath": "G:\\EjerciciosMTWDM2020\\LoginWithGoogle-master\\LoginWithGoogle.csproj",
+        "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
+        "outputPath": "G:\\EjerciciosMTWDM2020\\LoginWithGoogle-master\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ProBook 450 HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Mis paquetes Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Firebase.Auth": {
+              "target": "Package",
+              "version": "[71.1605.0, )"
+            },
+            "Xamarin.GooglePlayServices.Auth": {
+              "target": "Package",
+              "version": "[71.1600.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
